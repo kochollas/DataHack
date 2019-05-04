@@ -13,3 +13,10 @@
 5a. follows a normal distribution after filtering zero counts
 
 6 Most interactions: 2018-02-14 19:08:06 26 Least interactions: single day interactions
+
+
+Question 2
+https://drive.google.com/file/d/1D0hfNbQ-lMMNHrdIRFZrbcISoAYLOx2q/view
+
+
+
